@@ -19,6 +19,7 @@ This document is broken down into the following 7 sections:
 <h2 id="getting-started">Get Started</h2>
 
 *Some of the basics to get you going.*
+<br>
 
 ### Bitcoin is permissionless
 You don't need any permission to develop on bitcoin, or to use bitcoin. This is a cornerstone of the system. You don't need an ID to send a payment, to recieve a payment, or to write another programming language library and integrate bitcoin into your website or business. Connect to the network, and you can use it.
