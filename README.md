@@ -32,7 +32,14 @@ Bitcoin is open for everyone to participate. This include its governance, its im
 
 <br>
 
-#### Bitcoin is a neutral network
+### Bitcoin is a neutral network
 Bitcoin doesn't care about who you are (we often speak of it as being a _flat_, or _neutral_, network). Structure your transaction and your bytes correctly, and the network will propagate your payment. Own the keys to your coins, and the protocol will recognize the legitimacy of your claim to those coins. 
 
 This bears similiarities to how the web operates. Anyone with a connection and a browser can go to _www.wikipedia.com_ and get access to the world's knowledge. No need to be anyone special; both wikipedia and bitcoin will treat you the same whether you're the richest person on earth or the poorest. This is fundamental, and another cornerstone of the project.
+
+<br>
+
+### Bitcoin is opt-in
+Bitcoin is opt-in. No one is forcing you to use it. Every single person purchasing bitcoin has chosen to do so purposedly. This is a remarkable departure from the way we use the US dollar, for example, or any other government prescribed fiat currency. 
+
+Money is half of every transaction we ever make. We tend to be very fond of our freedom to choose which cellphone to buy or which house to live in. The choice of which _money_ to use, however, is not allowed anywhere in the developed world; it is prescribed and severely enforced by governements.
