@@ -24,3 +24,6 @@ This document is broken down into the following 7 sections:
 
 ### Bitcoin is permissionless
 You don't need any permission to develop on bitcoin, or to use bitcoin. This is a cornerstone of the system. You don't need an ID to send a payment, to recieve a payment, or to write another programming language library and integrate bitcoin into your website or business. Connect to the network, and you can use it.
+
+### Bitcoin is open
+Bitcoin is open for everyone to participate. This include its governance, its implementation, and its code. Everything is out in the open. There is no "insider information", no secret meetings. The code is open source, and the process through which the many bitcoin implementations change and upgrade is for all to see, comment, debate, and participate in. Come and join us.
