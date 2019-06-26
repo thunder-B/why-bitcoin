@@ -17,4 +17,4 @@ This document is broken down into the following 7 sections:
 
 <br><br><br>
 <h2 id="getting-started">Get Started</h2>
-_Some of the basics to get you going._
+*Some of the basics to get you going.*
