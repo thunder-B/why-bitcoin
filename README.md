@@ -1,4 +1,5 @@
 <br>
+
 # Bitcoin
 
 Wrapping our minds around what bitcoin is, what is special about it, and what it aims to achieve is plain hard. Whether you want to love it or hate it, _understanding_ it is the first step of the journey. Most often, we don't even know what to ask or where to start. 
