@@ -14,3 +14,7 @@ This document is broken down into the following 7 sections:
 5. [Bitcoin is Software](#bitcoin-software)
 6. [Bitcoin as Money](#bitcoin-as-money)
 7. [Bitcoin and Privacy](#bitcoin-and-privacy)
+
+<br><br><br>
+<h2 id="getting-started">Get Started</h2>
+_Some of the basics to get you going._
