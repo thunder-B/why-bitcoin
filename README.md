@@ -82,7 +82,7 @@ When you purchase bitcoin, you know that no government can come in and change it
 <br><br><br>
 <h2 id="bitcoin-political-project">Bitcoin the Political Project</h2>
 
-_Because of its potentially disruptive effect, Bitcoin is intrectitably tied to politics._
+_Because of its potentially disruptive effect, Bitcoin is inextricably tied to politics._
 
 <br>
 
