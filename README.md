@@ -46,10 +46,15 @@ Money is half of every transaction we ever make. We tend to be very fond of our 
 
 <br>
 
+### Why 21 million?
+The exact number has very little importance; the fact that it has a hard cap is the real difference between bitcoin and other monies, and the consequences of that choice are explored below. As for the choice of 21 in the first place, we can only speculate as to why Satoshi choose it. He never justified or explained it.
+
+<br>
+
 ### Aren't we going to run out of coins?
 Bitcoin has an ultimate cap on its supply; there will only ever be 21 million bitcoins created. We can, however, always add decimal places in order to use smaller units of the currency. It's like how `1.0 = 1.00 = 1.000000`. As you add decimal places, the total number (21 million) itself doesn't change, but the units that can be used become smaller, and there are more of them. You can never "run out of coins".
 
 <br>
 
-### Why 21 million?
-The exact number has very little importance; the fact that it has a hard cap is the real difference between bitcoin and other monies, and the consequences of that choice are explored below. As for the choice of 21 in the first place, we can only speculate as to why Satoshi choose it. He never justified or explained it.
+#### Bitcoin or bitcoin?
+It is rather unfortunate that bitcoin the currency unit was named the same name as Bitcoin the protocol. But that's the gist of it. We speak of sending _bitcoin_ across the world (like sending _dollars_), but when we speak of the protocol itself, we capitalise the word (as in _Bitcoin is an open borderless neutral permissionless antifragile system_). As bitcoin increases in value, however, this problem shows up less in day-to-day life, as people are starting to speak of sending _satoshis_ to each other (satoshis are the smallest unit of bitcoin one can transact with (0.00000001 btc), just like the penny is the smallest amount of dollar one can send.
