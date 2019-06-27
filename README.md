@@ -18,7 +18,7 @@ This document is broken down into the following 7 sections:
 <br><br><br>
 <h2 id="getting-started">Get Started</h2>
 
-*Some of the basics to get you going.*
+_Some of the basics to get you going._
 
 <br>
 
@@ -78,3 +78,20 @@ _The Philosophy of Liberty and the Bitcoin project are closely aligned._
 
 ### Bitcoin is apolitical
 When you purchase bitcoin, you know that no government can come in and change it at will, debase it, or censor it. Bitcoin is not controlled by any one jursidiction; it is not subject to the wims of politicians. Very few currencies can say the same today.
+
+<br><br><br>
+<h2 id="bitcoin-political-project">Bitcoin the Political Project</h2>
+
+_Because of its potentially disruptive effect, Bitcoin is intrectitably tied to politics._
+
+<br>
+
+### Bitcoin and central banks' monetary policy
+We are subject to the monetary policy of our central banks through our use of the currency they create and control. For most people in the developed world, this is not too much of a problem, because those central banks tend to behave predictably. But this power to pull and push on the money supply and influence inflation is only made possible by the monopoly they have over the money used by their citizens. The ability to opt-out of your country's fiat money system takes away power from the central bank to target and control inflation. This ability will not be relinquished easily.
+
+<br>
+
+### Bitcoin offers the potential to separate money and State
+Religion and State used to be very much the same in the developed world; they were separated for the better over the last century. Bitcoin offers a way to do the same with money and State. 
+
+The same way we think of our religious leaders making decisions about minimum wage legislation as a rather odd idea, we might come to think of having our politicians in charge of the money supply as being silly in retrospect.
