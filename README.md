@@ -56,5 +56,15 @@ Bitcoin has an ultimate cap on its supply; there will only ever be 21 million bi
 
 <br>
 
-#### Bitcoin or bitcoin?
-It is rather unfortunate that bitcoin the currency unit was named the same name as Bitcoin the protocol. But that's the gist of it. We speak of sending _bitcoin_ across the world (like sending _dollars_), but when we speak of the protocol itself, we capitalise the word (as in _Bitcoin is an open borderless neutral permissionless antifragile system_). As bitcoin increases in value, however, this problem shows up less in day-to-day life, as people are starting to speak of sending _satoshis_ to each other (satoshis are the smallest unit of bitcoin one can transact with (0.00000001 btc), just like the penny is the smallest amount of dollar one can send.
+### Bitcoin or bitcoin?
+It is rather unfortunate that bitcoin the currency unit was named the same name as Bitcoin the protocol. But that's the gist of it. We speak of sending _bitcoin_ across the world (like sending _dollars_), but when we speak of the protocol itself, we capitalise the word (as in _Bitcoin is an open borderless neutral permissionless antifragile system_). As bitcoin increases in value, however, this problem shows up less in day-to-day life, as people are starting to speak of sending _satoshis_ to each other (satoshis are the smallest unit of bitcoin one can transact with (`0.00000001 btc`), just like the penny is the smallest amount of dollar one can send.
+
+<br>
+
+### One of these is not the same
+Think of how easy/hard it is to accomplish each of these 3 tasks:  
+1. Send an message across the world  
+2. Send a hundredth of a penny across the world   
+3. Send a million dollars across the world  
+
+One of these is currently much easier than the others. Note that if the right to send messages effortlessly across the world was taken from you through KYC processes and IDs and international restrictions you might feel (rightfully) outraged. Note also that messages sent across the world using software rather than physical objects (for example by using WhatsApp or email rather than handwritten letters) open up the range of messages one can send, from entire gigabytes (movies for examples) to single letters ("k"), to single bytes if the user so wishes. These smaller messages were not economically feasible in the times of paper letters and stamps; today we use them hundreds of times a day. Software broadens the range of possibilities.
