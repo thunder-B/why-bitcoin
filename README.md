@@ -68,3 +68,13 @@ Think of how easy/hard it is to accomplish each of these 3 tasks:
 3. Send a million dollars across the world  
 
 One of these is currently much easier than the others. Note that if the right to send messages effortlessly across the world was taken from you through KYC processes and IDs and international restrictions you might feel (rightfully) outraged. Note also that messages sent across the world using software rather than physical objects (for example by using WhatsApp or email rather than handwritten letters) open up the range of messages one can send, from entire gigabytes (movies for examples) to single letters ("k"), to single bytes if the user so wishes. These smaller messages were not economically feasible in the times of paper letters and stamps; today we use them hundreds of times a day. Software broadens the range of possibilities.
+
+<br><br><br>
+<h2 id="bitcoin-and-freedom">Bitcoin and Freedom</h2>
+
+_The Philosophy of Liberty and the Bitcoin project are closely aligned._
+
+<br>
+
+### Bitcoin is apolitical
+When you purchase bitcoin, you know that no government can come in and change it at will, debase it, or censor it. Bitcoin is not controlled by any one jursidiction; it is not subject to the wims of politicians. Very few currencies can say the same today.
