@@ -42,4 +42,9 @@ This bears similiarities to how the web operates. Anyone with a connection and a
 ### Bitcoin is opt-in
 Bitcoin is opt-in. No one is forcing you to use it. Every single person purchasing bitcoin has chosen to do so purposedly. This is a remarkable departure from the way we use the US dollar, for example, or any other government prescribed fiat currency. 
 
-Money is half of every transaction we ever make. We tend to be very fond of our freedom to choose which cellphone to buy or which house to live in. The choice of which _money_ to use, however, is not allowed anywhere in the developed world; it is prescribed and severely enforced by governements.
+Money is half of every transaction we ever make. We tend to be very fond of our freedom to choose which cellphone to buy or which house to live in. The choice of which _money_ to use, however, is not allowed anywhere in the developed world; it is prescribed and severely enforced by governments.
+
+<br>
+
+### Aren't we going to run out of coins?
+Bitcoin has an ultimate cap on its supply; there will only ever be 21 million bitcoins created. We can, however, always add decimal places in order to use smaller units of the currency. It's like how `1.0 = 1.00 = 1.000000`. As you add decimal places, the total number (21 million) itself doesn't change, but the units that can be used become smaller, and there are more of them. You can never "run out of coins".
