@@ -69,9 +69,6 @@ Think of how easy/hard it is to accomplish each of these 3 tasks:
 
 One of these is currently much easier than the others. Note that if the right to send messages effortlessly across the world was taken from you through KYC processes and IDs and international restrictions you might feel (rightfully) outraged. Note also that messages sent across the world using software rather than physical objects (for example by using WhatsApp or email rather than handwritten letters) open up the range of messages one can send, from entire gigabytes (movies for examples) to single letters ("k"), to single bytes if the user so wishes. These smaller messages were not economically feasible in the times of paper letters and stamps; today we use them hundreds of times a day. Software broadens the range of possibilities.
 
-### Bitcoin is too pricy at... \*insert whatever price here*
-Arguing bitcoin is pricy at $8000 is like saying a quarter ton of gold is too expensive because it's a few million dollars. We are talking about a fungible good that is almost infinitely divisible. You can hold as small an amount as you want. It doesn't matter; you're still claiming a bit of real estate on bitcoin island<a>[0](#f0)</a>.
-
 <br><br><br>
 <h2 id="bitcoin-and-freedom">Bitcoin and Freedom</h2>
 
@@ -124,5 +121,13 @@ Blockchains are similar to databases. They have, however, major drawbacks. Slow,
 ### You don't need to understand bitcoin to benefit from its properties
 There is a myth that says you need to understand bitcoin to benefit from its properties. Do you really understand email at the bytes level? In fact if we ask ourselves if we really understand our money in the first place, we usually find that indeed we don't. Central banks? Overnight lending rates? Fractional Reserve Banking? Quantitative Easing? People don't understand the current financial system more than they understand bitcoin. And contrary to the legacy financial system, everything is in the open. Source code, governance system and upgrades. There is no insider information; you can learn it all for free.
 
+<br>
 
-<a id="f0">0</a>: This is not a direct quote, but the idea was taken from Tuur Demeester on the _The Investor's Podcast_ (TIP244).
+### Bitcoin is too pricy at... \*insert whatever price here*
+Arguing bitcoin is pricy at $8000 is like saying a quarter ton of gold is too expensive because it's a few million dollars. We are talking about a fungible good that is almost infinitely divisible. You can hold as small an amount as you want. It doesn't matter; you're still claiming a bit of real estate on bitcoin island<a>[0](#f0)</a>.
+
+<br>
+
+## References
+
+<a id="f0">[0]</a>: This is not a direct quote, but the idea was taken from Tuur Demeester on the _The Investor's Podcast_ (TIP244).
