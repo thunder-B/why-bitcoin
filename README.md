@@ -129,14 +129,22 @@ Arguing bitcoin is pricy at $8000 is like saying a quarter ton of gold is too ex
 <br>
 
 ### Bitcoin is a _protocol_. What does that mean?
-Shipping containers are the same across the world. They are a protocol <a>[[1]](#f1)</a>. The English language is a protocol. Protocol is just an agreed upon way of doing things. Bitcoin is a protocol. It is programming language agnostic, computer architecture agnostic, and doesn't care if it is transmitted over the internet, short wave radio, or satellite dishes.
+Shipping containers are the same across the world. They are an example of a protocol <a>[[1]](#f1)</a>. The English language is a protocol. A protocol is just an agreed upon way of doing things. Bitcoin is a protocol. It is programming language agnostic, computer architecture agnostic, and doesn't care if it is transmitted over the internet, short wave radio, or satellite dishes.
 
 <br>
 
 ### Open source projects tend to yield powerful results
-The combined effort of people who come together to work on a project for free can be astonishing. Linux, Wikipedia, PostgreSQL. The speed of iteration is unmatched. These are monuments of human achivements and of what can be done together in a non coercive way. Linux is fully opt-in, yet runs probably more than 80% of computers and servers on this planet. PostgreSQL, Python, NodeJS, name them. Check out [this Ted video](https://www.youtube.com/watch?v=DnWocYKqvhw) from Michael Nielson ([@michael_nielsen](https://twitter.com/michael_nielsen) about the _Polymath Project_, where a mathematician who decided to open source his approach to an unresolved mathematical problem, only to have it solved by the world's community in 37 days, and then actually building a proof for an even harder mathematical problem!
+The combined effort of people who come together to work on a project for free can be astonishing. Linux, Wikipedia, PostgreSQL. The speed of iteration is unmatched. These are monuments of human achivements and of what can be done together in a non coercive way. Linux is fully opt-in, yet runs probably more than 80% of computers and servers on this planet. PostgreSQL, Python, NodeJS, name them. Check out [this Ted video](https://www.youtube.com/watch?v=DnWocYKqvhw) from Michael Nielsen ([@michael_nielsen](https://twitter.com/michael_nielsen) about the _Polymath Project_, where a mathematician tentatively decided to open source his approach to an unresolved mathematical problem, only to have it solved by the world's community in 37 days, and then actually building a proof for an even harder mathematical problem!
+
+<br><br>
+<h2 id="bitcoin-as-money">Bitcoin as Money</h2>
 
 <br>
+
+### Austrian School view on monetary competition
+Austrians believe that money is not imposed but chosen freely. They believe we should let monies compete in order to discover the best medium used as money. The best money is the medium of exchange choosen freely by the market.
+
+<br><br>
 
 ## References
 
