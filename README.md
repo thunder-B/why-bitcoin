@@ -105,3 +105,5 @@ _Software is eating the world._
 ### Layers
 Software is built in layers. Examples: the internet and TCP/IP, or SMTP, the protocol for email. Small building blocks that are very flexible and non-presriptive, that are then used to build on top of.
 
+### Why would another project not just come in a steal bitcoin's code?
+Open source means we're all on the same team. This is not like Honda versus Toyota where they keep secrets from each other; good ideas simply get incorporated into the protocol. Any improvement eventually makes its way into bitcoin.
