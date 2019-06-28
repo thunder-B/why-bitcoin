@@ -94,4 +94,14 @@ We are subject to the monetary policy of our central banks through our use of th
 ### Bitcoin offers the potential to separate money and State
 Religion and State used to be very much the same in the developed world; they were separated for the better over the last century. Bitcoin offers a way to do the same with money and State. 
 
-The same way we think of our religious leaders making decisions about minimum wage legislation as a rather odd idea, we might come to think of having our politicians in charge of the money supply as being silly in retrospect.
+The same way we think of our religious leaders making decisions about minimum wage legislation as a rather odd idea, we might come to think of having our politicians in charge of the money supply as being quite silly in retrospect.
+
+<br><br>
+<h2 id="bitcoin-software">Bitcoin is Software</h2>
+_Software is eating the world._
+
+<br>
+
+### Layers
+Software is built in layers. Examples: the internet and TCP/IP, or SMTP, the protocol for email. Small building blocks that are very flexible and non-presriptive, that are then used to build on top of.
+
