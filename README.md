@@ -124,10 +124,22 @@ There is a myth that says you need to understand bitcoin to benefit from its pro
 <br>
 
 ### Bitcoin is too pricy at... \*insert whatever price here*
-Arguing bitcoin is pricy at $8000 is like saying a quarter ton of gold is too expensive because it's a few million dollars. We are talking about a fungible good that is almost infinitely divisible. You can hold as small an amount as you want. It doesn't matter; you're still claiming a bit of real estate on bitcoin island<a>[[0]](#f0)</a>.
+Arguing bitcoin is pricy at $8000 is like saying a quarter ton of gold is too expensive because it's a few million dollars. We are talking about a fungible good that is almost infinitely divisible. You can hold as small an amount as you want. It doesn't matter; you're still claiming a bit of real estate on bitcoin island <a>[[0]](#f0)</a>.
+
+<br>
+
+### Bitcoin is a _protocol_. What does that mean?
+Shipping containers are the same across the world. They are a protocol <a>[[1]](#f1)</a>. The English language is a protocol. Protocol is just an agreed upon way of doing things. Bitcoin is a protocol. It is programming language agnostic, computer architecture agnostic, and doesn't care if it is transmitted over the internet, short wave radio, or satellite dishes.
+
+<br>
+
+### Open source projects tend to yield powerful results
+The combined effort of people who come together to work on a project for free can be astonishing. Linux, Wikipedia, PostgreSQL. The speed of iteration is unmatched. These are monuments of human achivements and of what can be done together in a non coercive way. Linux is fully opt-in, yet runs probably more than 80% of computers and servers on this planet. PostgreSQL, Python, NodeJS, name them. Check out [this Ted video](https://www.youtube.com/watch?v=DnWocYKqvhw) from Michael Nielson ([@michael_nielsen](https://twitter.com/michael_nielsen) about the _Polymath Project_, where a mathematician who decided to open source his approach to an unresolved mathematical problem, only to have it solved by the world's community in 37 days, and then actually building a proof for an even harder mathematical problem!
 
 <br>
 
 ## References
 
-<a id="f0">[0]</a>: This is not a direct quote, but I first heard the idea put this way by Tuur Demeester [@TuurDemeester](https://twitter.com/TuurDemeester) on the _The Investor's Podcast_ (TIP244).
+<a id="f0">[0]</a>: This is not a direct quote, but I first heard the idea put this way by Tuur Demeester ([@TuurDemeester](https://twitter.com/TuurDemeester)) on the _The Investor's Podcast_ (TIP244).
+
+<a id="f1">[1]</a>: The idea of using the ship containers as an example for a protocol comes from Tuur Demeester again, on the _The Investor's Podcast_ (TIP244). Worth a listen.
