@@ -105,5 +105,12 @@ _Software is eating the world._
 ### Layers
 Software is built in layers. Examples: the internet and TCP/IP, or SMTP, the protocol for email. Small building blocks that are very flexible and non-presriptive, that are then used to build on top of.
 
+<br>
+
 ### Why would another project not just come in a steal bitcoin's code?
 Open source means we're all on the same team. This is not like Honda versus Toyota where they keep secrets from each other; good ideas simply get incorporated into the protocol. Any improvement eventually makes its way into bitcoin.
+
+<br>
+
+### Bitcoin and blockchain
+Blockchains are similar to databases. They have, however, major drawbacks. Slow, costly, energy intensive. Not many things are worth the price paid to etch a piece of data in a blockchain. To be willing to pay that you need to have very specific needs. For example, being able to resist government control, censorship, or other powerful actors. Sharing kittens or game items might not fit that criteria.
