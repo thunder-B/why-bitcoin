@@ -114,3 +114,8 @@ Open source means we're all on the same team. This is not like Honda versus Toyo
 
 ### Bitcoin and blockchain
 Blockchains are similar to databases. They have, however, major drawbacks. Slow, costly, energy intensive. Not many things are worth the price paid to etch a piece of data in a blockchain. To be willing to pay that you need to have very specific needs. For example, being able to resist government control, censorship, or other powerful actors. Sharing kittens or game items might not fit that criteria.
+
+<br>
+
+### You don't need to understand bitcoin to benefit from its properties
+There is a myth that says you need to understand bitcoin to benefit from its properties. Do you really understand email at the bytes level? In fact if we ask ourselves if we really understand our money in the first place, we usually find that indeed we don't. Central banks? Overnight lending rates? Fractional Reserve Banking? Quantitative Easing? People don't understand the current financial system more than they understand bitcoin. And contrary to the legacy financial system, everything is in the open. Source code, governance system and upgrades. There is no insider information; you can learn it all for free.
