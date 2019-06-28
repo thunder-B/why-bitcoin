@@ -124,10 +124,10 @@ There is a myth that says you need to understand bitcoin to benefit from its pro
 <br>
 
 ### Bitcoin is too pricy at... \*insert whatever price here*
-Arguing bitcoin is pricy at $8000 is like saying a quarter ton of gold is too expensive because it's a few million dollars. We are talking about a fungible good that is almost infinitely divisible. You can hold as small an amount as you want. It doesn't matter; you're still claiming a bit of real estate on bitcoin island<a>[0](#f0)</a>.
+Arguing bitcoin is pricy at $8000 is like saying a quarter ton of gold is too expensive because it's a few million dollars. We are talking about a fungible good that is almost infinitely divisible. You can hold as small an amount as you want. It doesn't matter; you're still claiming a bit of real estate on bitcoin island<a>[[0]](#f0)</a>.
 
 <br>
 
 ## References
 
-<a id="f0">[0]</a>: This is not a direct quote, but the idea was taken from Tuur Demeester on the _The Investor's Podcast_ (TIP244).
+<a id="f0">[0]</a>: This is not a direct quote, but I first heard the idea put this way by Tuur Demeester [@TuurDemeester](https://twitter.com/TuurDemeester) on the _The Investor's Podcast_ (TIP244).
