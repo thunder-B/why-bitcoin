@@ -46,7 +46,13 @@ Money is half of every transaction we ever make. We tend to be very fond of our 
 
 <br>
 
-### Why 21 million?
+#### Fragility, Robustness, and Antifragility
+**Fragility** is the concept where something gets _weaker_ as it gets attacked or comes under duress.   **Robustness** is the ability for something _not get weakened_ by attacks or shocks.     
+**Antifragility** is the idea that something gets _stronger_ as it is attacked.     
+The concept of antifragility was popularized by Nassim Taleb, and bitcoin is often thought as being antifragile; not only has it resisted attacks in the past, but every unsuccessfull attack on the network has made it stronger, either by allowing the implementations to better their codebases or by building up its "social immune system".
+
+
+#### Why 21 million?
 The exact number has very little importance; the fact that it has a hard cap is the real difference between bitcoin and other monies, and the consequences of that choice are explored below. As for the choice of 21 in the first place, we can only speculate as to why Satoshi choose it. He never justified or explained it.
 
 <br>
@@ -61,7 +67,7 @@ It is rather unfortunate that bitcoin the currency unit was named the same name 
 
 <br>
 
-### One of these is not the same
+#### One of these is not the same
 Think of how easy/hard it is to accomplish each of these 3 tasks:  
 1. Send an message across the world  
 2. Send a hundredth of a penny across the world   
@@ -96,7 +102,7 @@ Religion and State used to be very much the same in the developed world; they we
 
 The same way we think of our religious leaders making decisions about minimum wage legislation as a rather odd idea, we might come to think of having our politicians in charge of the money supply as being quite silly in retrospect.
 
-<br><br>
+<br><br><br>
 <h2 id="bitcoin-software">Bitcoin is Software</h2>
 
 _Software is eating the world._
@@ -136,15 +142,15 @@ Shipping containers are the same across the world. They are an example of a prot
 ### Open source projects tend to yield powerful results
 The combined effort of people who come together to work on a project for free can be astonishing. Linux, Wikipedia, PostgreSQL. The speed of iteration is unmatched. These are monuments of human achivements and of what can be done together in a non coercive way. Linux is fully opt-in, yet runs probably more than 80% of computers and servers on this planet. PostgreSQL, Python, NodeJS, name them. Check out [this Ted video](https://www.youtube.com/watch?v=DnWocYKqvhw) from Michael Nielsen ([@michael_nielsen](https://twitter.com/michael_nielsen) about the _Polymath Project_, where a mathematician tentatively decided to open source his approach to an unresolved mathematical problem, only to have it solved by the world's community in 37 days, and then actually building a proof for an even harder mathematical problem!
 
-<br><br>
+<br><br><br>
 <h2 id="bitcoin-as-money">Bitcoin as Money</h2>
 
 <br>
 
 ### Austrian School view on monetary competition
-Austrians believe that money is not imposed but chosen freely. They believe we should let monies compete in order to discover the best medium used as money. The best money is the medium of exchange choosen freely by the market.
+Austrians believe that money is not imposed but chosen freely. They believe we should let monies compete in order to discover the best medium used as money; that the best money is _defined_ by being the medium of exchange choosen freely by the market.
 
-<br><br>
+<br><br><br>
 
 ## References
 
