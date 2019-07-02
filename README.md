@@ -158,6 +158,12 @@ The combined effort of people who come together to work on a project for free ca
 ### Austrian School view on monetary competition
 Austrians believe that money is not imposed but chosen freely. They believe we should let monies compete in order to discover the best medium used as money; that the best money is _defined_ by being the medium of exchange choosen freely by the market.
 
+<br>
+
+### But... I can't use it anywhere to buy things!
+Yes... Just like gold. Unfortunately bitcoin has been marketed as a payment service in its early days, and we are still suffering from that misguided characterization <a>[[3]](#f3)</a>. The foundation pieces of the bitcoin protocol (the first layer) are much more suitable for a store of value. Second layers will bring method of payment. But then again they could _not_, and it wouldn't be the end of bitcoin (see gold); it's just that software is so flexible, in the case of bitcoin we _do_ in fact think it's possible to do it all.
+
+
 <br><br><br>
 
 ## References
@@ -167,3 +173,5 @@ Austrians believe that money is not imposed but chosen freely. They believe we s
 <a id="f1">[1]</a>: The idea of using the ship containers as an example for a protocol comes from Tuur Demeester again, on the _The Investor's Podcast_ (TIP244). Worth a listen.
 
 <a id="f2">[2]</a>: Nassim Nicholas Taleb (2012). Antifragile: Things That Gain from Disorder. Random House. ISBN 9781400067824.
+
+<a id="f3">[3]</a>: Again this is not a direct quote, but I first heard the idea put this way by Tuur Demeester ([@TuurDemeester](https://twitter.com/TuurDemeester)) on the _The Investor's Podcast_ (TIP244).
