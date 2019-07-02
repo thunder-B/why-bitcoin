@@ -165,6 +165,11 @@ Yes... Just like gold. Unfortunately bitcoin has been marketed as a payment serv
 
 <br>
 
+### But... Bitcoin is way too complicated! (hint: it's not)
+You think bitcoin is complicated? Try explaining the financial system to someone. Central banks, overnight lending rates, fractional reserve banking, quantitative easing, bla bla bla... the current system is so complex the majority of people don't even know what central banks are supposed to be doing to help them in their daily lives. On the other hand, try explaining the rules of bitcoin to a 12 year old; 10 minutes will suffice (indeed for a great example on how to do just that, check out the book [Bitcoin Money, A Tale of Bitville Discovering Good Money(https://thebitcoinrabbi.com/bitcoin-money-book/) <a>[[4]](#f4)</a>).
+
+<br>
+
 ### Money and wealth flees from inflation
 Wealth needs to protect itself from inflation and is seeking places it can hide; this creates a chase for anything that doesn't devalue over time. Malinvestments and empty real estate are examples of this phenomenon. A simple store of value would suck away a lot of that "investment". Eventually, because bitcoin is provably scarce, it could become a black hole of investment, where it sucks in wealth from everywhere else.
 
@@ -179,3 +184,5 @@ Wealth needs to protect itself from inflation and is seeking places it can hide;
 <a id="f2">[2]</a>: Nassim Nicholas Taleb (2012). Antifragile: Things That Gain from Disorder. Random House. ISBN 9781400067824.
 
 <a id="f3">[3]</a>: Again this is not a direct quote, but I first heard the idea put this way by Tuur Demeester ([@TuurDemeester](https://twitter.com/TuurDemeester)) on the _The Investor's Podcast_ (TIP244).
+
+<a id="f4">[4]</a>: _Bitcoin Money, A Tale of Bitville Discovering Good Money_ is a book written by Rabbi Michael Caras, aka _The Bitcoin Rabbi_ ([@@thebitcoinrabbi](https://twitter.com/thebitcoinrabbi)).
