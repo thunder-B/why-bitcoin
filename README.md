@@ -166,7 +166,7 @@ Yes... Just like gold. Unfortunately bitcoin has been marketed as a payment serv
 <br>
 
 ### But... Bitcoin is way too complicated! (hint: it's not)
-You think bitcoin is complicated? Try explaining the financial system to someone. Central banks, overnight lending rates, fractional reserve banking, quantitative easing, bla bla bla... the current system is so complex the majority of people don't even know what central banks are supposed to be doing to help them in their daily lives. On the other hand, try explaining the rules of bitcoin to a 12 year old; 10 minutes will suffice (indeed for a great example on how to do just that, check out the book [Bitcoin Money, A Tale of Bitville Discovering Good Money(https://thebitcoinrabbi.com/bitcoin-money-book/) <a>[[4]](#f4)</a>).
+You think bitcoin is complicated? Try explaining the financial system to someone. Central banks, overnight lending rates, fractional reserve banking, quantitative easing, bla bla bla... the current system is so complex the majority of people don't even know what central banks are supposed to be doing to help them in their daily lives. On the other hand, try explaining the rules of bitcoin to a 12 year old; 10 minutes will suffice (indeed for a great example on how to do just that, check out the book [Bitcoin Money, A Tale of Bitville Discovering Good Money](https://thebitcoinrabbi.com/bitcoin-money-book/) <a>[[4]](#f4)</a>.
 
 <br>
 
