@@ -75,6 +75,14 @@ Think of how easy/hard it is to accomplish each of these 3 tasks:
 
 One of these is currently much easier than the others. Note that if the right to send messages effortlessly across the world was taken from you through KYC processes and IDs and international restrictions you might feel (rightfully) outraged. Note also that messages sent across the world using software rather than physical objects (for example by using WhatsApp or email rather than handwritten letters) open up the range of messages one can send, from entire gigabytes (movies for examples) to single letters ("k"), to single bytes if the user so wishes. These smaller messages were not economically feasible in the times of paper letters and stamps; today we use them hundreds of times a day. Software broadens the range of possibilities.
 
+<br>
+
+#### The Lindy Effect
+> The Lindy effect is a theory that the future life expectancy of some non-perishable things like a technology or an idea is proportional to their current age, so that every additional period of survival implies a longer remaining life expectancy <a>[[2]](#f2)</a>.
+
+Every day bitcoin survives, your expectation that it will survive the next day increases. The overall belief that bitcoin going to survive is much stronger after 10 years than it was after year 5, which was itself stronger than it was after year 1. 
+
+
 <br><br><br>
 <h2 id="bitcoin-and-freedom">Bitcoin and Freedom</h2>
 
@@ -157,3 +165,5 @@ Austrians believe that money is not imposed but chosen freely. They believe we s
 <a id="f0">[0]</a>: This is not a direct quote, but I first heard the idea put this way by Tuur Demeester ([@TuurDemeester](https://twitter.com/TuurDemeester)) on the _The Investor's Podcast_ (TIP244).
 
 <a id="f1">[1]</a>: The idea of using the ship containers as an example for a protocol comes from Tuur Demeester again, on the _The Investor's Podcast_ (TIP244). Worth a listen.
+
+<a id="f2">[2]</a>: Nassim Nicholas Taleb (2012). Antifragile: Things That Gain from Disorder. Random House. ISBN 9781400067824.
