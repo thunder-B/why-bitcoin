@@ -163,6 +163,10 @@ Austrians believe that money is not imposed but chosen freely. They believe we s
 ### But... I can't use it anywhere to buy things!
 Yes... Just like gold. Unfortunately bitcoin has been marketed as a payment service in its early days, and we are still suffering from that misguided characterization <a>[[3]](#f3)</a>. The foundation pieces of the bitcoin protocol (the first layer) are much more suitable for a store of value. Second layers will bring method of payment. But then again they could _not_, and it wouldn't be the end of bitcoin (see gold); it's just that software is so flexible, in the case of bitcoin we _do_ in fact think it's possible to do it all.
 
+<br>
+
+### Money and wealth flees from inflation
+Wealth needs to protect itself from inflation and is seeking places it can hide; this creates a chase for anything that doesn't devalue over time. Malinvestments and empty real estate are examples of this phenomenon. A simple store of value would suck away a lot of that "investment". Eventually, because bitcoin is provably scarce, it could become a black hole of investment, where it sucks in wealth from everywhere else.
 
 <br><br><br>
 
