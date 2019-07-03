@@ -10,9 +10,9 @@ This document is broken down into the following 7 sections:
 1. [Get Started](#getting-started)
 2. [Bitcoin and Freedom](#bitcoin-and-freedom)
 3. [Bitcoin the Political Project](#bitcoin-political-project)
-4. [Bitcoin and Price](#bitcoin-and-price)
-5. [Bitcoin is Software](#bitcoin-software)
-6. [Bitcoin as Money](#bitcoin-as-money)
+4. [Bitcoin is Software](#bitcoin-software)
+5. [Bitcoin as Money](#bitcoin-as-money)
+6. [Bitcoin and Price](#bitcoin-and-price)
 7. [Bitcoin and Privacy](#bitcoin-and-privacy)
 
 <br><br><br>
@@ -137,11 +137,6 @@ There is a myth that says you need to understand bitcoin to benefit from its pro
 
 <br>
 
-### Bitcoin is too pricy at... \*insert whatever price here*
-Arguing bitcoin is pricy at $8000 is like saying a quarter ton of gold is too expensive because it's a few million dollars. We are talking about a fungible good that is almost infinitely divisible. You can hold as small an amount as you want. It doesn't matter; you're still claiming a bit of real estate on bitcoin island <a>[[0]](#f0)</a>.
-
-<br>
-
 ### Bitcoin is a _protocol_. What does that mean?
 Shipping containers are the same across the world. They are an example of a protocol <a>[[1]](#f1)</a>. The English language is a protocol. A protocol is just an agreed upon way of doing things. Bitcoin is a protocol. It is programming language agnostic, computer architecture agnostic, and doesn't care if it is transmitted over the internet, short wave radio, or satellite dishes.
 
@@ -166,12 +161,22 @@ Yes... Just like gold. Unfortunately bitcoin has been marketed as a payment serv
 <br>
 
 ### But... Bitcoin is way too complicated! (hint: it's not)
-You think bitcoin is complicated? Try explaining the financial system to someone. Central banks, overnight lending rates, fractional reserve banking, quantitative easing, bla bla bla... the current system is so complex the majority of people don't even know what central banks are supposed to be doing to help them in their daily lives. On the other hand, try explaining the rules of bitcoin to a 12 year old; 10 minutes will suffice (indeed for a great example on how to do just that, check out the book [Bitcoin Money, A Tale of Bitville Discovering Good Money](https://thebitcoinrabbi.com/bitcoin-money-book/) <a>[[4]](#f4)</a>.
+You think bitcoin is complicated? Try explaining the financial system to someone. Central banks, overnight lending rates, fractional reserve banking, quantitative easing, bla bla bla... the current system is so complex the majority of people don't even know what central banks are supposed to be doing to help them in their daily lives. On the other hand, try explaining the rules of bitcoin to a 12 year old; 10 minutes will suffice (indeed for a great example on how to do just that, check out the book _Bitcoin Money, A Tale of Bitville Discovering Good Money_ <a>[[4]](#f4)</a>.
 
 <br>
 
 ### Money and wealth flees from inflation
 Wealth needs to protect itself from inflation and is seeking places it can hide; this creates a chase for anything that doesn't devalue over time. Malinvestments and empty real estate are examples of this phenomenon. A simple store of value would suck away a lot of that "investment". Eventually, because bitcoin is provably scarce, it could become a black hole of investment, where it sucks in wealth from everywhere else.
+
+<br><br><br>
+<h2 id="bitcoin-and-price">The Price of Bitcoin</h2>
+
+_Supply and demand._
+
+<br>
+
+### Bitcoin is too pricy at... \*insert whatever price here*
+Arguing bitcoin is pricy at $8000 is like saying a quarter ton of gold is too expensive because it's a few million dollars. We are talking about a fungible good that is almost infinitely divisible. You can hold as small an amount as you want. It doesn't matter; you're still claiming a bit of real estate on bitcoin island <a>[[0]](#f0)</a>.
 
 <br><br><br>
 
@@ -185,4 +190,4 @@ Wealth needs to protect itself from inflation and is seeking places it can hide;
 
 <a id="f3">[3]</a>: Again this is not a direct quote, but I first heard the idea put this way by Tuur Demeester ([@TuurDemeester](https://twitter.com/TuurDemeester)) on the _The Investor's Podcast_ (TIP244).
 
-<a id="f4">[4]</a>: _Bitcoin Money, A Tale of Bitville Discovering Good Money_ is a book written by Rabbi Michael Caras, aka _The Bitcoin Rabbi_ ([@@thebitcoinrabbi](https://twitter.com/thebitcoinrabbi)).
+<a id="f4">[4]</a>: _Bitcoin Money, A Tale of Bitville Discovering Good Money_ is a book written by Rabbi Michael Caras, aka _The Bitcoin Rabbi_ ([@thebitcoinrabbi](https://twitter.com/thebitcoinrabbi)). You can [find the book here](https://thebitcoinrabbi.com/bitcoin-money-book/).
